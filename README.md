@@ -12,9 +12,7 @@ The primary objective of this project is to use relational databases, machine le
 
 ## Resources
 - [US_births_2004-2014_SSA.csv] (https://github.com/Yasminem2022/Final_Project/blob/main/Resources/US_births_1994-2003_CDC_NCHS.csv)
-* original data source: https://www.kaggle.com/datasets/ayessa/birthday
 - [full_moon.csv] (https://github.com/Yasminem2022/Final_Project/blob/main/Resources/full_moon.csv)
-* original data source: https://www.kaggle.com/datasets/lsind18/full-moon-calendar-1900-2050
 - Python
 - Jupyter Notebook
 - AWS S3
