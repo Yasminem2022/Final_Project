@@ -11,8 +11,8 @@ The primary objective of this project is to use relational databases, machine le
 - **Dashboard**: We will utilize Tableau to analyze and visualize our observed and predicted birth data.
 
 ## Resources
-- [US_births_2000-2014_SSA.csv](https://github.com/Yasminem2022/Final_Project/blob/main/Resources/US_births_2000-2014_SSA.csv)
-- [US_births_1994-2003_CDC_NCHS.csv](https://github.com/Yasminem2022/Final_Project/blob/main/Resources/US_births_1994-2003_CDC_NCHS.csv)
+- [US_births_2000-2014_SSA.csv](https://github.com/Yasminem2022/Final_Project/blob/main/Resources/US_births_2000-2014_SSA.csv) - Obtained from https://www.kaggle.com/datasets/ayessa/birthday
+- [US_births_1994-2003_CDC_NCHS.csv](https://github.com/Yasminem2022/Final_Project/blob/main/Resources/US_births_1994-2003_CDC_NCHS.csv) - Obtained from https://www.kaggle.com/datasets/ayessa/birthday
 - Python
 - Jupyter Notebook
 - AWS S3
