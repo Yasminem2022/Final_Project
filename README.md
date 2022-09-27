@@ -20,5 +20,20 @@ The primary objective of this project is to use relational databases, machine le
 - SciKit-Learn
 
 ## Summary
+The machine learning methods that we initially used were linear regression, random forest, and decision tree.  This required splitting our preprocessed data into a training and testing dataset. Below are the boxplot results of the test and predicted data for each machine learning method.
+
+**Linear Regression**
+![This is an image](https://github.com/Yasminem2022/Final_Project/blob/main/Images/BoxPlot_LinearRegression.png)
+
+**Random Forest**
+![This is an image](https://github.com/Yasminem2022/Final_Project/blob/main/Images/BoxPlot_RandomForest.png)
+
+**Decision Tree**
+![This is an image](https://github.com/Yasminem2022/Final_Project/blob/main/Images/BoxPlot_DecisionTree.png)
+
+
+Upon reviewing the boxplots for each machine learning method, the predicted number of births did not appear to vary significantly across each methods.  We ran the mean squared error and r-squared tests to better determine which machine learning method to use for our project.  Based on the results of the MSE and R2 tests, we believe the random forest test method is the best machine learning method to use for our data.  The random forest method has the highest R-squared score; this measures the strength of the relationship between our model and the dependent variable.  The random forest method also has the lowest mean square error; the MSE is the average of the square of the difference between actual and estimated values, ultimately this tells us how close a regression line is to a set of points.
+
+![This is an image](https://github.com/Yasminem2022/Final_Project/blob/main/Images/MSE_R-Squared_Comparisons.png)
 
 ## Results
