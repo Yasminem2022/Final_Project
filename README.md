@@ -23,7 +23,7 @@ The primary objective of this project is to use relational databases, machine le
 - Tableau Public
 
 ## Summary
-One of the first tasks performed with our raw data was merging the two datasets and dropping duplicate data.  This was performed in pgAdmin 4 and can be found [here](https://github.com/Yasminem2022/Final_Project/blob/main/schema.sql).
+One of the first tasks performed with our raw data was merging the two datasets and dropping duplicate data.  This was performed in pgAdmin 4 and the schema can be found [here](https://github.com/Yasminem2022/Final_Project/blob/main/schema.sql).
 
 The machine learning methods that we initially used were linear regression, random forest, and decision tree.  This required splitting our preprocessed data into a training and testing dataset. Below are the boxplot results of the test and predicted data for each machine learning method.
 
