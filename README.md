@@ -19,7 +19,7 @@ The primary objective of this project is to use relational databases, machine le
 - PostgreSQL
 - SciKit-Learn
 - Google Collab
-- Google Slides
+- Google Slides [Link To Presentation](https://docs.google.com/presentation/d/1XEJwOefnhCDtBqo3TJdhocbbkaxkwLATrcOSYfvUenU/edit?usp=sharing)
 - Tableau Public
 
 ## Summary
