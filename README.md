@@ -18,6 +18,8 @@ The primary objective of this project is to use relational databases, machine le
 - AWS S3
 - PostgreSQL
 - SciKit-Learn
+- Google Slides
+- Tableau Public
 
 ## Summary
 The machine learning methods that we initially used were linear regression, random forest, and decision tree.  This required splitting our preprocessed data into a training and testing dataset. Below are the boxplot results of the test and predicted data for each machine learning method.
