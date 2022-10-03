@@ -20,7 +20,7 @@ The primary objective of this project is to use relational databases, machine le
 - SciKit-Learn
 - Google Collab
 - Google Slides [Link To Presentation](https://docs.google.com/presentation/d/1XEJwOefnhCDtBqo3TJdhocbbkaxkwLATrcOSYfvUenU/edit?usp=sharing)
-- Tableau Public
+- Tableau Public [Link to Tableau Dashboard](https://public.tableau.com/app/profile/ian.zukowski/viz/Birthday_Analysis/PredictionsbyMonth?publish=yes)
 
 ## Summary
 One of the first tasks performed with our raw data was merging the two datasets and dropping duplicate data.  This was performed in pgAdmin 4 and the schema can be found [here](https://github.com/Yasminem2022/Final_Project/blob/main/schema.sql).  Our entity relation diagram shows the link between the two datasets and can be found [here](https://github.com/Yasminem2022/Final_Project/blob/main/ERD_2.png).
