@@ -46,3 +46,9 @@ Upon reviewing the boxplots for each machine learning method, the predicted numb
 
 
 ## Results
+
+Our analysis revealed that Tuesday is the most popular day of the week for births, while Sunday followed by Saturday are the least popular day of the week for births.  Furthermore the data shows that September and August are the two months with the highest average births.  
+
+When comparing the test data to our predicted data (machine learning model), our predicted births per month is fairly close to the actual test data.  The largest variance of any month is September, where the actual test data has 11,873 average births compared to our predicted 11,282 average births, a variance of 591 or 4.98%. The smallest variance of any month is May, where the actual test data has 10,990 average births compared to our predicted 10,985 average births.
+
+The Tableau dashboard has additional graphs and interactive tables which further give insight into the average births by weekday, date, and month.  An interesting takeaway from the data is Christmas is historically the day with the lowest average births, we can assume people want to avoid being in the hospital over the holidays and avoid scheduling inductions on Christmas.  On the other hand we observed Valentines day February 14th is by far the most popular holiday for births; we assume this is due to the nature of the holiday people would like to induce (naturally or assisted) to increase the chance of their child being born on the 14th. We also noticed there are a few months where the date with the highest average births were repeating numbers - this is the case for April, July, August, and September.  The repeating numbers could be a coincidence, or could be due to individuals wanting their kid to be born on a date that is easier to remember. 
